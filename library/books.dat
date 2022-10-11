@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 2,
+        "name": "The red and the Black",
+        "description": "Novel",
+        "isbn": "21-20-18-701",
+        "page_count": 500,
+        "issued": false,
+        "author": "Stendhai",
+        "year": 2000
+    },
+    {
+        "Id": 1,
+        "name": "Pride and Prejudice",
+        "description": "Novel",
+        "isbn": "12-12-34-2000",
+        "page_count": 99,
+        "issued": true,
+        "author": "Jane Austin",
+        "year": 99
+    },
+    {
+        "Id": 3,
+        "name": "Wuthering Heights",
+        "description": "Novel",
+        "isbn": "12-89-01-781",
+        "page_count": 99,
+        "issued": true,
+        "author": "Emilly Bronte",
+        "year": 99
+    }
+]
